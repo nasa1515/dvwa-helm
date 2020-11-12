@@ -5,10 +5,9 @@
 replicaCount: 3
 
 image:
-  repository: jisunpark/cccr-dvwa-java-web
-  tag: 13
+  repository: 34.64.237.112/cccr/centos
+  tag: latest
   pullPolicy: ""
-
 
 value: ec95c258266b8e985848cae688effa2b
 
