@@ -1,1 +1,1 @@
-# cccr-dvwa-helm
+# dvwa-helm
